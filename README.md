@@ -1,2 +1,2 @@
 # brainhack-vienna
-Website save the date for brainhack venice 2016
+Website save the date for brainhack Vienna 2016
